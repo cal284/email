@@ -82,7 +82,7 @@ while True:
 # In[8]:
 
 
-get_ipython().system('pip install schedule')
+
 
 
 # In[ ]:
